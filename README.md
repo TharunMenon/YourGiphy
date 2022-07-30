@@ -9,4 +9,4 @@ To coordinate all kinds of communication systems
 ## Alamofire:
    To handle the web request and response
 ## SwiftyJSON :
-To read and process JSON data from an Giphy API
+To read and process JSON data from Giphy API
